@@ -1,12 +1,22 @@
-# Mi repositorio
-Hola mi nombre es *Daniel Rincón.*
+# My Repository
 
-- 👀 Me gusta la tecnología
-- 💻 Soy **learner** de programación de software
+Hi! my name is *Daniel Felipe Rincón Guerrero*, I'm from Colombia, a 22 years old and a programming student. I possess skills in teamwork and companionship.
 
-|Aprendizaje|Lenguajes|
-|-----------|---------|
-|Programación|Python básico|
+### My preferences
+
+- I like technology.
+- I like tennis.
+- I like reading.
+
+### My software skills
+
+|Language  |Type              |Level|
+|----------|------------------|-----|
+|Python    |Backend           |Basic|
+|HTML      |Frontend          |Basic|
+|CSS       |Frontend          |Basic|
+|JavaScript|Frontend / Backend|Basic|
+|SQL       |Database          |Basic|
 
 
 <!---
